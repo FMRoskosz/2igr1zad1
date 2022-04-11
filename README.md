@@ -12,5 +12,6 @@
     <p>Komputery mnie interesuja oraz uważam, że wiedza o nich może mi się w przyszłości przydać.</p>
     <h4>Co bym w niej zmienił?</h4>
     <p>Jedyne co mi przeszkadza, to długi plan lekcji w czwartek, według mnie powinniśmy kończyć najpóźniej o 15.</p>
+     
   </body>
 </html>
