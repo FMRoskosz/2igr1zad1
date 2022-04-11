@@ -1,18 +1,16 @@
-# Zadanie
-> podczas edycji pliku .md otwórz go w zakładce **Preview**, będziesz mógł zobaczyć jak md formatuje tekst.  :relaxed:
-
- ![logo ZSTI](/logo/logoZSTI_l.jpg)
- 
-> ### Termin 05.04.2022 r. godz 22:00!
-
-1. Utwórz repozytorium o nazwie ***Twojenazwisko2igr1Git1***
-1. Dodaj jako wspólpracownika użytkownika **belfer2020**
-1. Utwórz w repozytorium plik *zsti.md*, a w nim napisz wykorzystując składnię [markdown](https://www.markdownguide.org/basic-syntax/):
-   - [x] dlaczego wybrałes szkołę ZSTI i kierunek technik informatyk
-   - [x] co Ci się podoba w ZSTI
-   - [x] co zmieniłbyś w ZSTI
-   - [x] dodaj Twoje zdjęcie
-1. Utwórz co najmniej 3 commity w Twojej kopii repo
-1. Jako rozwiązanie utwórz pull request.
-***
-> link do składni plików markdown: <https://www.markdownguide.org/basic-syntax/>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <h1>Kim jestem?</h2>
+    <p>Nazywam się Franciszek Roskosz, urodzony w Knurowie, mieszkam w Szałszy razem ze swoją rodziną.</p>
+    <h2>Gdzie się uczę?</h2>
+    <p>Chodzę do ZSTI, najlepszej szkoły na swiecie. Jestem w drugiej klasie i zamierzam zdać do 3. Szkoła ogólnie rzecz biorąc dobra.</p>
+    <h3>Dlaczego wybrałem tą szkołe?</h3>
+    <p>Komputery mnie interesuja oraz uważam, że wiedza o nich może mi się w przyszłości przydać.</p>
+    <h4>Co bym w niej zmienił?</h4>
+    <p>Jedyne co mi przeszkadza, to długi plan lekcji w czwartek, według mnie powinniśmy kończyć najpóźniej o 15.</p>
+  </body>
+</html>
